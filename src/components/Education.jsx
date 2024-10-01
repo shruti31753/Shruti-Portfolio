@@ -11,7 +11,7 @@ const Education = () => {
         <h2 className="text-lg font-bold mb-2">Pranveer Singh Institute of Technology, Kanpur</h2>
         <h3 className="text-1xl text-gray-600 font-semi mb-2">Bachelor of Technology - B.Tech in Computer Science and Engineering</h3>
         <h4 className="text-1xl text-gray-600 font-semi mb-2">(2021-2025)</h4>
-        <h2 className="text-1xl text-gray-600 font-semi mb-2">Grade: 7.81CGPA</h2>
+        <h2 className="text-1xl text-gray-600 font-semi mb-2">Grade: 8 CGPA</h2>
           <div className="flex flex-wrap justify-center"></div>
           <p className="text-1xl text-gray-400 font-semi mb-2">Currently, I am pursuing B.Tech in Computer Science and Engineering Branch from Pranveer Singh Institute of Technology, Kanpur and During my academic journey, I have developed foundational skills in Data Structures, Database Management System, OOPs, Operating System and Computer Network. and I also got an opportunity to work upon some projects to showcase my skills and to improve my problem solving abilitites.</p>
         </div>
